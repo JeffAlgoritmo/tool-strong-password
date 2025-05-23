@@ -15,5 +15,6 @@ Espero que goste!!
 ### > Digite o seguinte comando no terminal que o restante do processo é orientado pelo programa
 
 ### > Type the following command in the terminal and the rest of the process is guided by the program
-====================
+-------------------------------
 py ou python3 gerador-senha-forte-cli.py
+--------------------------------
