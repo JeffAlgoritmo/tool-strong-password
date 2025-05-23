@@ -10,10 +10,10 @@ Apesar de seu escopo bem limitado, com certeza pode ajudar bastante gente na hor
 Espero que goste!!
 
 =============================
-Como usar o programa? How to use this Program?
+# Como usar o programa? How to use this Program?
 
-=> Digite o seguinte comando no terminal que o restante do processo é orientado pelo programa
+### > Digite o seguinte comando no terminal que o restante do processo é orientado pelo programa
 
-=> Type the following command in the terminal and the rest of the process is guided by the program
+### > Type the following command in the terminal and the rest of the process is guided by the program
 ====================
 py ou python3 gerador-senha-forte-cli.py
